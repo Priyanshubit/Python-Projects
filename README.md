@@ -1,4 +1,1 @@
 # Python-Projects
-
-
-#Repo details
