@@ -41,8 +41,9 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 ### 🔹 `Web Scraping p1/`  
 🌐 Projects demonstrating how to extract data from the web using `pandas.read_html()` and other tools.
 
-- 🕸️ `webscraping.ipynb` – Scrapes table data directly from a website using Pandas functions like `read_html()` and processes it for analysis.
-- 📁 `customer.csv` – The resulting structured data extracted from the webpage.
+- 🕸️ `web_scraping.ipynb` – Scrapes table data directly from a website using Pandas functions like `read_html()` and processes it for analysis.
+- 🕸️ `web_scraping_1.ipynb
+- 📁 `companies.csv` – The resulting structured data extracted from the webpage.
 
 ---
 
