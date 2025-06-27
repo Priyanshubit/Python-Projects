@@ -56,11 +56,6 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 
 ---
 
-## 🙌 Contributing
-
-Feel free to fork, star ⭐, or raise issues! Contributions and suggestions are welcome.
-
----
 
 ## 👤 Author
 
