@@ -24,7 +24,7 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 
 - 📄 `Data_cleaning.ipynb` – Project 1
 
-
+---
 
 ### 🔹 `Jupiter files/`  
 💡 A set of useful mini-scripts and notebooks that demonstrate Python basics and automation.
