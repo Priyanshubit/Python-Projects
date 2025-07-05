@@ -8,6 +8,7 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 ## 📂 Project Structure
 
 📁 Python-Projects
+├── 📁 Data Cleaning
 ├── 📁 Jupiter files
 ├── 📁 Pandas
 ├── 📁 Web Scraping p1
@@ -17,6 +18,13 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 ---
 
 ## 📘 Folder Breakdown
+
+### 🔹 `Data Cleaning/` 
+💡 Data cleaning projects.
+
+- 📄 `Data_cleaning.ipynb` – Project 1
+
+
 
 ### 🔹 `Jupiter files/`  
 💡 A set of useful mini-scripts and notebooks that demonstrate Python basics and automation.
