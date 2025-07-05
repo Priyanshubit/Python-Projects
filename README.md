@@ -25,7 +25,7 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 - 📄 `Automatic_file_sorter.ipynb` – Organizes files into folders by file type.
 - 📄 `GroupBy.ipynb`, `Indexing.ipynb`, `filtering.ipynb` – Hands-on with pandas indexing, grouping, and filtering.
 - 📄 `MJC.ipynb` – Miscellaneous Jupyter cells for experiments.
-- 📄 `pandasvisualisation.ipynb` – Different types of data visualisation examples in pandas.
+- 📄 `pandas_visualisation.ipynb` – Different types of data visualisation examples in pandas.
 
 ---
 
