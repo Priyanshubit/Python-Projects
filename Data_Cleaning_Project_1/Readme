@@ -1,0 +1,68 @@
+# 🧹 Data Cleaning with Pandas 🐼
+
+Welcome to the **Data Cleaning** project!  
+This notebook demonstrates how to clean, standardize, and format real-world messy datasets using **Python** and **Pandas** in a Jupyter environment.
+
+---
+
+## 📌 What This Project Covers
+
+✅ Data standardization  
+✅ Handling duplicates and null values  
+✅ Phone number formatting  
+✅ Address splitting and organization  
+✅ Column renaming and cleanup  
+
+---
+
+## 🛠️ Technologies Used
+
+- 🐍 Python 3.x  
+- 📓 Jupyter Notebook  
+- 🧮 Pandas  
+
+---
+
+## 📊 Steps Performed
+
+### 1️⃣ Cleaning and Standardizing the Data
+- Removed duplicate records  
+- Dropped unnecessary columns at the end  
+
+### 2️⃣ Handling Extras and Missing Data
+- Removed unnecessary characters  
+- Cleaned out null or empty values  
+
+### 3️⃣ Phone Number Formatting
+- Converted phone numbers to string type  
+- Formatted into consistent three-part layout (e.g., `(123) 456-7890`)  
+
+### 4️⃣ Address Column Cleanup
+- Split the address column into components (e.g., Street, City, ZIP)  
+- Reorganized for better readability and structure  
+
+### 5️⃣ Column Renaming ✍️
+- Renamed columns for clarity and standard naming convention  
+- Ensured uniform casing and spelling  
+
+---
+
+
+---
+
+## 📈 Output Example
+
+Cleaned dataset is easier to analyze, process, and visualize.  
+You can now apply it to dashboards, ML models, or reporting workflows.
+
+---
+
+## 👨‍💻 Author
+
+**Priyanshu**  
+📫 https://www.linkedin.com/in/priyanshu-bagri-27a44a2b6/
+
+---
+
+
+⭐ *Feel free to fork, star, or raise an issue if you find this helpful!*
