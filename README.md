@@ -20,9 +20,10 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 ## 📘 Folder Breakdown
 
 ### 🔹 `Data Cleaning_Project_1/` 
-💡 Data cleaning projects.
+💡 Data cleaning project.
 
-- 📄 `Data_cleaning.ipynb` – Project 1
+- 📄 `Data_cleaning.ipynb` – Project
+-      Readme              -  Data standardization, Handling duplicates and null values, Phone number formatting,  Address splitting and organization, Column renaming and cleanup  
 
 ---
 
