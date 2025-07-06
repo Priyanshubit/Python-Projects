@@ -19,7 +19,7 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 
 ## 📘 Folder Breakdown
 
-### 🔹 `Data Cleaning/` 
+### 🔹 `Data Cleaning_Project_1/` 
 💡 Data cleaning projects.
 
 - 📄 `Data_cleaning.ipynb` – Project 1
