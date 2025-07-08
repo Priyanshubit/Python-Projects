@@ -12,6 +12,7 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 ├── 📁 Jupiter files
 ├── 📁 Pandas
 ├── 📁 Web Scraping p1
+├── 📁 World-Population-EDA
 └── 📄 README.md
 
 
@@ -54,6 +55,17 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 - 🕸️ `web_scraping.ipynb` – Scrapes table data directly from a website using Pandas functions like `read_html()` and processes it for analysis.
 - 🕸️ `web_scraping_1.ipynb
 - 📁 `companies.csv` – The resulting structured data extracted from the webpage.
+
+---
+
+### 🔹World-Population-EDA
+📊  An interactive dashboard built using Python, Pandas, and Streamlit to explore world population trends from 1970 to 2022.
+
+- 🕸️ Dashboard Screenshots
+- 🕸️ Exploratory Data Analysis.ipynb
+- 🕸️ README.md
+- 🕸️ cleaned_population_data.csv
+- 🕸️ population_dashboard.py
 
 ---
 
