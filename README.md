@@ -58,7 +58,7 @@ This repository includes hands-on work with **Pandas**, **Web Scraping**, and **
 
 ---
 
-### 🔹World-Population-EDA
+### 🔹`World-Population-EDA/`
 📊  An interactive dashboard built using Python, Pandas, and Streamlit to explore world population trends from 1970 to 2022.
 
 - 🕸️ Dashboard Screenshots
